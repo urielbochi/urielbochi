@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uriel!</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A fullstack Developer</h3>
 
 - 🔭 I’m currently working on **new front-end projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Angular**
 
 - 👨‍💻 All of my projects are available at [https://urielbochi.github.io/myPortfolio/](https://urielbochi.github.io/myPortfolio/)
 
